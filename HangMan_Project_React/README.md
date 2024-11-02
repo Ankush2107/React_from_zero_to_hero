@@ -1,8 +1,7 @@
-# React + Vite
+# HangMan React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Presenter container pattern
 
-Currently, two official plugins are available:
+The Presenter-Container pattern is a design principle in React that helps separate UI from business logic. This pattern is particularly useful when you want to reuse the same UI in multiple components, but each instance requires different logic or data.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Presenter-Container Pattern](./src/assets/image.png)
