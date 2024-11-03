@@ -1,4 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
+import MaskedText from "../components/MaskedText/MaskedText";
 
 function PlayGame() {
 
@@ -11,7 +12,8 @@ function PlayGame() {
 
     return (
         <>
-            <h1>Play Game { state.wordSelected } </h1>
+            <h1>Play Game</h1>
+            <MaskedText text={state.wordSelected} guessedLetters={[]} />
             <Link to="/start" className="text-blue-500">Start Game Link</Link>
         </>
     )

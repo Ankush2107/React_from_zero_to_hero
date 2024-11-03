@@ -9,9 +9,11 @@
 */
 
 export function getMaskedString(originalWord, guessedLetters) {
-    guessedLetters = guessedLetters.map(letter => letter.toUpperCase());
+    console.log("guessedLetters", guessedLetters)
 
-    const guessedLetterSet = new Set(guessedLetters);
+    guessedLetters = guessedLetters.map(letter => letter.toUpperCase()); // ['h', 'M', 'e'] ->['H', 'M', 'E']
+
+    const guessedLetterSet = new Set(guessedLetters); // {'H', 'M', 'E'}
 
     const result = originalWord.toUpperCase().split('').map(char => {
         if(guessedLetterSet.has(char)) {
@@ -19,7 +21,7 @@ export function getMaskedString(originalWord, guessedLetters) {
         } else {
             return "_";
         }
-    });
+    });  // ['H', '_', 'M', '_', '_', 'E']
 
-    return result.join('');
+    return result;
 };
