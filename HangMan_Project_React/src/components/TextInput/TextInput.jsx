@@ -12,4 +12,4 @@ function TextInput({ type = "text", label, placeholder = "Enter your input here"
   )
 }
 
-export default TextInput
+export default TextInput;
