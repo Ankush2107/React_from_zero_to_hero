@@ -1,0 +1,124 @@
+{
+    "words": [
+        {
+            "wordValue": "MANGO",
+            "wordHint": "A fruit"
+        },
+        {
+            "wordValue": "BANANA",
+            "wordHint": "A fruit"
+        },
+        {
+            "wordValue": "INDIA",
+            "wordHint": "A country"
+        },
+        {
+            "wordValue": "LONDON",
+            "wordHint": "A city"
+        },
+        {
+            "wordValue": "APPLE",
+            "wordHint": "A red or green fruit"
+        },
+        {
+            "wordValue": "DOG",
+            "wordHint": "A friendly pet"
+        },
+        {
+            "wordValue": "CAT",
+            "wordHint": "A small pet that says 'meow'"
+        },
+        {
+            "wordValue": "SUN",
+            "wordHint": "Shines in the sky"
+        },
+        {
+            "wordValue": "MOON",
+            "wordHint": "Comes out at night"
+        },
+        {
+            "wordValue": "STAR",
+            "wordHint": "Twinkles in the sky"
+        },
+        {
+            "wordValue": "TREE",
+            "wordHint": "Green and tall in a forest"
+        },
+        {
+            "wordValue": "FISH",
+            "wordHint": "Lives in water"
+        },
+        {
+            "wordValue": "CAR",
+            "wordHint": "Used for driving"
+        },
+        {
+            "wordValue": "BALL",
+            "wordHint": "Used in many games"
+        },
+        {
+            "wordValue": "CHAIR",
+            "wordHint": "Used for sitting"
+        },
+        {
+            "wordValue": "BIRD",
+            "wordHint": "Can fly in the sky"
+        },
+        {
+            "wordValue": "MILK",
+            "wordHint": "A drink that is white"
+        },
+        {
+            "wordValue": "CAKE",
+            "wordHint": "Sweet and yummy"
+        },
+        {
+            "wordValue": "DUCK",
+            "wordHint": "Says 'quack'"
+        },
+        {
+            "wordValue": "TRAIN",
+            "wordHint": "Runs on tracks"
+        },
+        {
+            "wordValue": "WATER",
+            "wordHint": "You drink it every day"
+        },
+        {
+            "wordValue": "FROG",
+            "wordHint": "Can jump and says 'ribbit'"
+        },
+        {
+            "wordValue": "BOOK",
+            "wordHint": "Used for reading"
+        },
+        {
+            "wordValue": "BREAD",
+            "wordHint": "You eat it with butter"
+        },
+        {
+            "wordValue": "KITE",
+            "wordHint": "Flies high in the sky"
+        },
+        {
+            "wordValue": "HAT",
+            "wordHint": "Worn on your head"
+        },
+        {
+            "wordValue": "CAKE",
+            "wordHint": "A dessert for birthdays"
+        },
+        {
+            "wordValue": "BAT",
+            "wordHint": "Used to hit a ball"
+        },
+        {
+            "wordValue": "HOUSE",
+            "wordHint": "Where you live"
+        },
+        {
+            "wordValue": "CUP",
+            "wordHint": "Used to drink tea"
+        }
+    ]
+}
